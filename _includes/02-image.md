@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Zac](https://images8.alphacoders.com/430/thumb-1920-430944.jpg)
