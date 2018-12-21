@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Total BA**
+Also _very_ attractive
+We are talking like _**DROP DEAD GORGIOUS**_
